@@ -1,0 +1,8 @@
+nextjs-nftmarketplace/node_modules
+hardhat-nftmarketplace/node_modules
+graph-nftmarketplace/node_modules
+nextjs-nftmarketplace/.env
+hardhat-nftmarketplace/.env
+.next
+cache
+nextjs-nftmarketplace
